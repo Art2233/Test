@@ -1,0 +1,10 @@
+body{
+    background-color: grey;
+    margin: 20px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+p{
+    color: rgb(66, 255, 66);
+}
